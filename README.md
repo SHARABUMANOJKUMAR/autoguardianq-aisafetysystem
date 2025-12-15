@@ -1,5 +1,6 @@
-# 🚗 AutoGuardian Q-AI  
+# 🚗 AutoGuardian Q-AI                                                                                                                                   
 ### Real-Time Accident Prevention System using AI & Quantum-Inspired Optimization
+![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
 ---
 
@@ -149,7 +150,8 @@ A passionate team of innovators focused on **AI, safety, and real-world impact**
 
 ## 📜 License
 This project is developed as part of **EY Techathon 6.0** for academic and innovation purposes.
-
+@This project is licensed under the **Apache License 2.0** – see the `LICENSE` file for details.
+![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ---
 
 ## ✨ Final Statement
